@@ -1,7 +1,8 @@
 # BAe-146 family
 The BAe-146 family implemented for FlightGear.
 
-![](./Pics/splashscreen.jpg?raw=true)
+> [!CAUTION]
+> I have forked this project but not tested in the sim yet, this message might change if I find it does work.
 
 ## Status
 I (OrbitalMartian) have decided to fork this project in the hopes of further developing this aircraft as I'd love to have this in FG.
